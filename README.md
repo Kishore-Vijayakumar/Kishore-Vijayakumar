@@ -50,7 +50,7 @@ My journey has been about crafting intelligent, data-driven solutions, with expe
 
 ### 📂 Highlighted Projects  
 
-#### 🔗 [Automatic Ticket Assignment | NLP](https://github.com/username/automatic-ticket-assignment)  
+#### 🔗 [Automatic Ticket Assignment | NLP](https://github.com/Kishore-Vijayakumar/automatic-ticket-assignment)  
 🎯 Developed a machine learning model for automating ticket classification and prioritization using **LSTM** and **NLTK**, increasing workflow efficiency.  
 
 #### 🔗 [Customer Churn Prediction](https://github.com/username/customer-churn-prediction)  
