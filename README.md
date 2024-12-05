@@ -64,8 +64,8 @@ My journey has been about crafting intelligent, data-driven solutions, with expe
 
 ### 📊 GitHub Activity Stats  
 
-[![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishore-Vijayakumar)]  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-Vijayakumar)]
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishore-Vijayakumar)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-Vijayakumar)
 ---
 
 ### 📫 Connect with Me!  
