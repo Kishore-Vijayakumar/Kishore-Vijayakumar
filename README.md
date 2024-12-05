@@ -53,24 +53,19 @@ My journey has been about crafting intelligent, data-driven solutions, with expe
 #### 🔗 [Automatic Ticket Assignment | NLP](https://github.com/Kishore-Vijayakumar/automatic-ticket-assignment)  
 🎯 Developed a machine learning model for automating ticket classification and prioritization using **LSTM** and **NLTK**, increasing workflow efficiency.  
 
-#### 🔗 [Customer Churn Prediction](https://github.com/username/customer-churn-prediction)  
+#### 🔗 [Customer Churn Prediction](https://github.com/Kishore-Vijayakumar/ensemble-techniques)  
 🎯 Built an ensemble model (Boosting, Random Forest) to predict and reduce churn rates, leveraging extensive **EDA** and **correlation analysis**.  
 
-#### 🔗 [Portfolio Website](https://github.com/username/portfolio-website)  
-🎯 Designed and developed a personal website using **HTML, CSS, and PHP** as part of a **college project**.  
 
-#### 🔗 [Android Music Player App](https://github.com/username/android-music-player-app)  
-🎯 Created a **Java-based Android application** for playing and managing audio files with an intuitive user interface.  
-
-#### 🔗 [Patient Condition Prediction](https://github.com/username/patient-condition-prediction)  
+#### 🔗 [Patient Condition Prediction](https://github.com/Kishore-Vijayakumar/supervised-learning)  
 🎯 Built a **supervised learning model** using **Logistic Regression** and **KNN** to forecast patient conditions.  
 
 ---
 
 ### 📊 GitHub Activity Stats  
 
-[![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishore-Vijayakumar)](https://github.com/Kishore-Vijayakumar/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-Vijayakumar)](https://github.com/Kishore-Vijayakumar/github-readme-stats)
+[![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishore-Vijayakumar)]  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-Vijayakumar)]
 ---
 
 ### 📫 Connect with Me!  
